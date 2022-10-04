@@ -1,10 +1,13 @@
 this is a list of todos for a complete stonkfish prediction engine
 
+- try to fix the LSTM (from version 3.1) to not return constant values for percent changes, if it continues breaking then switch to ANN (maybe)
+
 - need more modules than just LSTMs and ML stuff, add regular code that checks indicators etc
     > restructure # of prediction days to be dynamic, which could tie into a potential trend indentification module
 
-- restructure percent_chg_data = pd.read_csv("DJI45YearData.csv") to pass in close prices [4], RSI, BB DJI45YearData
+/ restructure percent_chg_data = pd.read_csv("DJI45YearData.csv") to pass in close prices [4], RSI, BB DJI45YearData
 
 - get the code to accept more data (probably like 4 rows [%chg, bbtop, bbbottom, rsi] instead of just close price)
 
-last updated oct 1 2022 21:35
+update oct 1 2022 21:35
+update oct 3 2022 22:34
