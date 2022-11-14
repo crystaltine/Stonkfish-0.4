@@ -1,4 +1,4 @@
-# Stonkfish-4.0
+# Stonkfish-0.4
 
 == Update Oct 2, 2022 22:42 PDT ==
 Swing/Mid-term trading bot trading SPY (for now) and (hopefully will) include both machine learning and conventional decision-making branches.
