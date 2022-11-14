@@ -8,9 +8,13 @@ Goals for operational version: Have a neural network(s) that predict data using 
 Inception: August 27th, 2022 (something idk)
 
 note: this bot sucks and i suck at coding. It will not be profitable or even work for a LONG time.
+== \Update Oct 2, 2022 22:42 PDT ==
 
 == Update November 13, 2022 00:43 PST ==
 Notes:
 Downtrend technicals are much more defined than those in bull markets when price is near all-time-highs. The lack of resistance levels means it is harder to set upside price targets to guide exit points. One solution for this is to just hold through a verified uptrend, with occasional small exits from RSI/BB-derived overbought conditions.
+== \Update November 13, 2022 00:43 PST ==
 
-
+== Update November 13, 2022 21:49 PST ==
+Project migrated to 2.0-b. Change in overall thesis to not restrict trades to SPY, instead focusing on technical signals backed by fundamental analysis of various US companies.
+== \Update November 13, 2022 21:49 PST ==
